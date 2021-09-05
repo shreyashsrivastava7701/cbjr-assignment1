@@ -1,0 +1,55 @@
+Question 1: Take values of length and breadth of a rectangle from user and check if it is square or not.
+
+
+Question 2: Take three int values from user and print greatest among them.
+
+
+Question 3: A shop will give discount of 10% if the cost of purchased quantity is more than 1000. Ask user for quantity Suppose, one unit will cost 100. Judge and print total cost for user.
+
+
+Question 4: A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years. Ask user for their salary and year of service and print the net bonus amount.
+
+
+Question 5: A school has following rules for grading system:
+a. Below 25 - F
+b. 25 to 45 - E
+c. 45 to 50 - D
+d. 50 to 60 - C
+e. 60 to 80 - B
+f. Above 80 - A
+Ask user to enter marks and print the corresponding grade.
+
+
+Question 6: Take input of age of 3 people by user and determine oldest and youngest among them.
+
+
+Question 7: Write a program to whether a number (accepted from user) is divisible by 2 and 3 both.
+
+
+Question 8: Write a program to check whether a number (accepted from user) is positive or negative.
+
+
+Question 9: Write a program to check whether a number entered is three digit number or not.
+
+
+Question 10: Accept the temperature in C and convert it in F scale.
+
+
+Question 11: Accept three sides of triangle and check whether the triangle is possible or not. (triangle is possible only when sum of any two sides is greater than 3rd side)
+
+
+Question 12: Accept the number of days from the user and calculate the charge for library according to following :
+First five days : Rs 2/day.
+Six to ten days : Rs 3/day.
+Ten to 15 days  : Rs 4/day
+After 15 days   : Rs 5/day
+
+
+Question 13: Write a program to check whether a number accepted is multiple of 13 and 17
+
+
+Question 14: Write a program to convert km to mm, cm, m
+
+
+Question 15: Write a program to check whether the length of your first name is equal to the length of your last name.
+
